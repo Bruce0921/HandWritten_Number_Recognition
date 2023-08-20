@@ -2,3 +2,5 @@
 Trying NLP
 
 ![Image](folder/result.jpg)
+
+![Image](folder/result.jpg)
